@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="abc">48d9c241db7203002310de90cf96198f</application>
+        <filter/>
+        <name>abc Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_142780_abc.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-01 07:42:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>80d9c241db7203002310de90cf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abc Table</sys_name>
+        <sys_package display_value="abc" source="x_142780_abc">9bc98ec1db3203002310de90cf96194e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abc">9bc98ec1db3203002310de90cf96194e</sys_scope>
+        <sys_update_name>sys_ui_module_80d9c241db7203002310de90cf96199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-01 07:42:34</sys_updated_on>
+        <table>x_142780_abc_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="c10a4241db7203002310de90cf9619ef" sys_domain="global" table="x_142780_abc_table" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2014-09-04 09:22:43</sys_created_on>
+            <sys_id>57568548d7032100b96d45a3ce610332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-09-04 09:22:43</sys_updated_on>
+            <text>${gs.getMessage("sys_reports.manage.text.general")}</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>050a4241db7203002310de90cf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>57568548d7032100b96d45a3ce610332</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>0d0a4241db7203002310de90cf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>8d0a4241db7203002310de90cf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>010a4241db7203002310de90cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>810a4241db7203002310de90cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>050a4241db7203002310de90cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>850a4241db7203002310de90cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>field</element>
+            <position>71</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>090a4241db7203002310de90cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>81</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>890a4241db7203002310de90cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chart_size</element>
+            <position>91</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>0d0a4241db7203002310de90cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>101</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>8d0a4241db7203002310de90cf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>filter</element>
+            <position>111</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>010a4241db7203002310de90cf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>roles</element>
+            <position>121</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_id>810a4241db7203002310de90cf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_142780_abc_table" sys_domain="global" view="Default view">c10a4241db7203002310de90cf9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_142780_abc_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-01 07:43:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c10a4241db7203002310de90cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_142780_abc_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="abc" source="x_142780_abc">9bc98ec1db3203002310de90cf96194e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="abc">9bc98ec1db3203002310de90cf96194e</sys_scope>
+            <sys_update_name>sys_ui_section_c10a4241db7203002310de90cf9619ef</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-01 07:43:27</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
